@@ -1,0 +1,8 @@
+[36m21-05-20 17:35:35[m [33m[WARN] connection load failed[m
+[33mFROM   manager.ConnectionManager LINE: 42[m
+[36m21-05-20 17:36:27[m [33m[WARN] connection load failed[m
+[33mFROM   manager.ConnectionManager LINE: 42[m
+[36m21-05-20 17:36:57[m [36m[DEBUG] Connection loaded[m
+[33mFROM   manager.ConnectionManager LINE: 38[m
+[36m21-05-20 17:37:56[m [36m[DEBUG] Connection loaded[m
+[33mFROM   manager.ConnectionManager LINE: 38[m
